@@ -167,9 +167,13 @@ const CollectionGrid = () => {
         <div className="mt-10 text-center">
           <p className="text-gray-500">No more products to display</p>
         </div>
+        
       )}
+    
     </div>
+    
   )
+  
 }
 
 

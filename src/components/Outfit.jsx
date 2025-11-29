@@ -184,7 +184,8 @@ const OutFitGrid = () => {
         </div>
       ) : (
         <div className="mt-10 text-center">
-          <p className="text-gray-500">No more products to display</p>
+          <p className="px-4 sm:px-8 text-sm md:text-base max-w-3xl w-full mx-auto text-center text-gray-600 my-14">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus leo, elementum in malesuada an darius ut augue. Cras sit amet lectus et justo feugiat euismod sed non erat. Nulla non felis id metus bibendum iaculis quis sit amet eros. Nam suscipit mollis tellus vel malesuada. Duis danos an molestie, sem in sollicitudin sodales mi justo sagittis est id consequat ipsum ligula a milance de mante...</p>
         </div>
       )}
     </div>
