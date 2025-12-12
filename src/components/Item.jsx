@@ -50,41 +50,47 @@ const items = [
             <img
                 src={items[0].image}
                 alt="model-1"
-                className="md:w-72 w-full h-auto object-cover"
+                className="md:w-100 w-full h-auto object-cover rounded-md"
             />
 
             
             <img
                 src={items[1].image}
                 alt="model-2"
-                className="md:w-72 w-full h-auto object-cover"
+                className="md:w-100 w-fullh-auto object-cover rounded-md"
             />           
             <img
                 src={items[2].image}
                 alt="model-1"
-                className="md:w-72 w-full h-auto object-cover"
+                className="md:w-100 w-full h-auto object-cover rounded-md"
             />
 
             
             <img
                 src={items[3].image}
                 alt="model-2"
-                className="md:w-72 w-full h-auto object-cover"
+                className="md:w-72 w-full h-auto object-cover rounded-md"
             />           
             <img
                 src={items[4].image}
                 alt="model-1"
-                className="md:w-72 w-full h-auto object-cover"
+                className="md:w-72 w-full h-auto object-cover rounded-md"
             />
 
             
             <img
                 src={items[5].image}
                 alt="model-2"
-                className="md:w-72 w-full h-auto object-cover"
-            />           
-                       
+                className="md:w-72 w-full h-auto object-cover rounded-md"
+            />
+            <div>
+              <p className='mt-[50px] px-4 sm:px-6 text-sm md:text-base max-w-3xl w-full mx-auto text-center text-gray-600 my-1'> Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur soluta corrupti optio molestias numquam dolor modi, vel id delectus suscipit! Minus iusto incidunt eos veritatis soluta excepturi suscipit,laudantium dignissimos laudantium dignissimos officiis nihil dicta aliquam, eaque accusamus doloremque delectus voluptatibus blanditiis non voluptates nulla quaerat sint vel. Quidem eum nam inventore sunt obcaecati!</p>
+            </div>
+
+
+                   
     </div>
+    
   )
 }
 
